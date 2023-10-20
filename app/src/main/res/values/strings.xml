@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Projek Tengah Semester</string>
+
+    <string name="film1_info">Judul: The Expendables 4\n
+        \n
+        Genre: Film Aksi\n
+        \n
+        Sutradara: TBD (Tentative by Design)\n
+        \n
+        Pemain Utama: Bintang-bintang laga terkenal seperti Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, dan lainnya.\n
+        \n
+        Sinopsis: "The Expendables 4" adalah film yang menampilkan kumpulan para tentara bayaran (expendables)\n
+        yang terdiri dari bintang-bintang laga terkenal. Mereka dipanggil untuk melaksanakan misi berbahaya\n
+        yang melibatkan aksi-aksi ekstrem, pertempuran senjata, dan ketegangan. Tim ini biasanya dikenal\n
+        karena keberanian mereka dan keterampilan dalam penggunaan senjata. Film ini menggabungkan aksi yang\n
+        mendebarkan dengan elemen komedi, membuatnya menjadi film yang menarik bagi penggemar aksi. Seperti\n
+        semua film \"The Expendables\", \"The Expendables 4\" menawarkan pertarungan aksi yang intens, baku\n
+        tembak, dan ledakan yang spektakuler. Film ini ditujukan untuk penggemar film aksi yang suka dengan\n
+        film yang penuh dengan aksi, ketegangan, dan kehadiran bintang-bintang laga terkenal.</string>
+
+    <string name="film2_info">Judul: Openheimer\n
+        \n
+        Genre: Drama Sejarah\n
+        \n
+        Sutradara: Christopher Nolan\n
+        \n
+        Pemain Utama: Cillian Murphy (sebagai J. Robert Oppenheimer)\n
+        \n
+        Sinopsis:\n
+        "Openheimer" adalah film drama sejarah yang akan disutradarai oleh Christopher Nolan. Film ini akan membawa penonton ke dalam peristiwa sejarah yang krusial, yakni pengembangan bom atom selama Perang Dunia II. Cillian Murphy akan memerankan tokoh utama, J. Robert Oppenheimer, seorang fisikawan teoretis yang memainkan peran penting dalam Proyek Manhattan, yang akhirnya menghasilkan bom atom.\n
+        \n
+        Film ini akan menyajikan dramatisasi dari perjuangan, keputusan moral, dan dampak yang dihasilkan dari pengembangan senjata nuklir. Penonton akan dibawa ke dalam kompleksitas etika dan ilmu pengetahuan yang melatarbelakangi Proyek Manhattan.\n
+        \n
+        Sebagai seorang fisikawan terkenal, Oppenheimer memainkan peran utama dalam memimpin proyek tersebut, yang akhirnya menghasilkan ledakan bom atom di Hiroshima dan Nagasaki. Film ini diharapkan untuk menggambarkan perjalanan dan dilema moral yang dihadapi Oppenheimer, serta dampak historis yang melekat pada peristiwa tersebut.\n
+        \n
+        Sebagaimana dengan film-film Christopher Nolan sebelumnya, "Openheimer" diantisipasi untuk menampilkan kualitas sinematik yang tinggi dan narasi yang mendalam, menjadikan film ini menarik bagi penggemar sejarah dan penggemar karya Nolan.</string>
+
+    <string name="film3_info">Judul: Uncharted\n
+        \n
+        Genre: Film Aksi-Petualangan\n
+        \n
+        Sutradara: Ruben Fleischer\n
+        \n
+        Pemain Utama: Tom Holland (sebagai Nathan Drake), Mark Wahlberg (sebagai Victor "Sully" Sullivan)\n
+        \n
+        Sinopsis:\n
+        "Uncharted" adalah film aksi-petualangan yang berdasarkan pada permainan video populer dengan nama yang sama. Film ini mengikuti petualangan Nathan Drake, seorang pemburu harta karun dan penjelajah yang pemberani. Nathan Drake diperankan oleh Tom Holland, sedangkan karakter temannya, Victor "Sully" Sullivan, diperankan oleh Mark Wahlberg.\n
+        \n
+        Cerita berpusat pada pencarian harta karun legendaris yang akan membawa Nathan dan Sully ke berbagai lokasi eksotis di seluruh dunia. Mereka harus menghadapi berbagai tantangan, bahaya, dan musuh untuk mencari harta karun yang berharga.\n
+        \n
+        "Uncharted" menjanjikan aksi yang intens, pengambilan gambar yang spektakuler, dan karakter-karakter yang kuat. Film ini mengeksplorasi asal-usul karakter Nathan Drake dan menampilkan petualangan yang penuh dengan teka-teki, aksi, dan humor.\n
+        \n
+        Dalam film ini, penggemar permainan video "Uncharted" akan menemukan elemen-elemen yang mereka kenal dan cintai dari seri permainan tersebut. Ini adalah adaptasi yang ditunggu-tunggu bagi penggemar petualangan, sejarah, dan aksi.\n
+        \n
+        "Uncharted" adalah sebuah film yang diharapkan untuk menghadirkan pengalaman petualangan yang menghibur dan mengasyikkan, dengan memadukan unsur-unsur cerita permainan video dengan kualitas produksi yang tinggi.</string>
+
+    <string name="film4_info">Judul: The Menu\n
+        \n
+        Genre: Film Drama Komedi\n
+        \n
+        Sutradara: TBD (Belum Diumumkan)\n
+        \n
+        Pemain Utama: TBD (Belum Diumumkan)\n
+        \n
+        Sinopsis:\n
+        "The Menu" adalah film drama komedi yang sedang dalam pengembangan. Meskipun informasi lebih lanjut tentang sutradara, pemain, dan plotnya belum diumumkan pada saat pengetahuan saya hingga September 2021, namun beberapa informasi awal telah terungkap.\n
+        \n
+        Film ini diantisipasi akan mengikuti tema komedi dengan latar belakang industri makanan atau restoran. Namun, karena detail dan rincian belum sepenuhnya diumumkan, informasi yang tersedia saat ini masih terbatas.\n
+        \n
+        Dalam beberapa proyek film, judul, genre, sutradara, dan pemain dapat berubah seiring dengan perkembangan produksi. Pastikan untuk memeriksa berita terbaru tentang "The Menu" saat lebih banyak informasi tersedia jika Anda tertarik untuk menontonnya.</string>
+
+    <string name="film5_info">Judul: John Wick: Chapter 4\n
+        \n
+        Genre: Film Aksi-Thriller\n
+        \n
+        Sutradara: Chad Stahelski\n
+        \n
+        Pemain Utama: Keanu Reeves (sebagai John Wick)\n
+        \n
+        Sinopsis:\n
+        "John Wick: Chapter 4" adalah sekuel yang dinantikan dari waralaba aksi-thriller yang sangat populer. Film ini kembali menampilkan Keanu Reeves dalam peran ikoniknya sebagai John Wick, seorang mantan pembunuh bayaran yang terkenal dengan keahlian luar biasa dalam seni bela diri dan penggunaan senjata.\n
+        \n
+        Dalam "John Wick: Chapter 4", kita akan melihat petualangan baru dari John Wick yang legendaris. Meskipun plot persisnya belum diungkapkan, kita dapat mengharapkan aksi yang intens, pertarungan senjata yang brilian, dan pengembangan karakter yang lebih lanjut. \n
+        \n
+        John Wick adalah karakter yang dikenal karena kode etikanya yang khusus dan tekadnya yang tak tergoyahkan. Film-film sebelumnya dalam seri ini telah menampilkan dunia bawah tanah yang gelap, dengan berbagai faksi pembunuh bayaran, dan setiap sekuel membawa penonton lebih dalam ke dalam mitologi dan kompleksitas dunia tersebut.\n
+        \n
+        "John Wick: Chapter 4" diharapkan akan memberikan penggemar setia waralaba ini lebih banyak aksi brutal, cerita yang mendalam, dan pertarungan yang spektakuler. Keanu Reeves telah mendapatkan banyak pujian untuk perannya sebagai John Wick, dan film ini diantisipasi untuk memenuhi harapan para penggemar.\n</string>
+
+</resources>
